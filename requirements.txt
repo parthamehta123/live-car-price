@@ -15,7 +15,6 @@ itsdangerous==1.1.0
 Jinja2==2.11.2
 joblib==0.17.0
 jsonify==0.5
-jsonschema @ file:///C:/ci/jsonschema_1601490672432/work
 jupyter==1.0.0
 jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1601311786391/work
 jupyter-console @ file:///tmp/build/80754af9/jupyter_console_1598884538475/work
