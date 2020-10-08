@@ -12,7 +12,6 @@ Flask==1.1.2
 idna==2.10
 ipython-genutils==0.2.0
 itsdangerous==1.1.0
-jedi @ file:///C:/ci/jedi_1598353661586/work
 Jinja2==2.11.2
 joblib==0.17.0
 jsonify==0.5
